@@ -10,3 +10,5 @@ Interactive Tableau dashboard published on Tableau Public. This dashboard shows 
 - Excel (data source)
 - Tableau Extract (.hyper)
   
+## 🖼 Dashboard Preview
+![Dashboard Preview](oilpricehistorydashboard.png)
